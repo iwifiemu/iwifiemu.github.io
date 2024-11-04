@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwifiemu.github.io/dPx/sitemap_index.txt
+Sitemap: https://iwifiemu.github.io/lUY/sitemap_index.txt
+Sitemap: https://iwifiemu.github.io/vmw/sitemap_index.txt
+Sitemap: https://iwifiemu.github.io/yhQ/sitemap_index.txt
